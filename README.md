@@ -61,15 +61,3 @@ Mi objetivo es seguir aprendiendo, fortalecer mis conocimientos técnicos y obte
 Roberto Enrique Torres Ortega
 
 ✨ Gracias por visitar mi perfil. Siempre abierto a aprender y mejorar.
-
-Si quieres, en el próximo mensaje puedo:
-
-🔧 Ajustarlo para que sea más atractivo para reclutadores
-
-🌐 Hacer una versión en inglés
-
-🎨 Agregar badges, íconos y estadísticas de GitHub
-
-📌 Adaptarlo específicamente a práctica en desarrollo web o backend
-
-Tú me dices 🚀
